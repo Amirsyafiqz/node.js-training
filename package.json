@@ -2,7 +2,7 @@
   "name": "nodejs-training",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "nodemon --env-file=.env server2.js"
   },
